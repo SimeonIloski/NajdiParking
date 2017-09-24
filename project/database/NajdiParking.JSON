@@ -1,0 +1,164 @@
+{
+  "Parking": {
+    "Parking1": {
+      "name": "Агромеханика",
+      "zone": "A1",
+      "location": "бул.ВМРО",
+      "capacity": 29,
+      "latitude": 41.9973,
+      "longtitude": 21.4280
+    },
+    "Parking2": {
+      "name": "Даме Груев 1",
+      "zone": "A3",
+      "location": "ул. Даме Груев- пред полициска станица Беко",
+      "capacity": 53,
+      "latitude": 41.993550,
+      "longtitude": 21.427606
+    },
+    "Parking3": {
+      "name": "Даме Груев 2",
+      "zone": "A4",
+      "location": "ул. Даме Груев- Позади собрание",
+      "capacity": 86,
+      "latitude": 41.992298,
+      "longtitude": 21.432685
+    },
+    "Parking4": {
+      "name": "Орце Николов",
+      "zone": "A5",
+      "location": "ул. Даме Груев",
+      "capacity": 40,
+      "latitude": 41.998597,
+      "longtitude": 21.427535
+    },
+    "Parking5": {
+      "name": "Максим Гроки",
+      "zone": "A6",
+      "location": "ул. Максим Горки, 27ми Март, 8-ма Ударна бригада и Скопска",
+      "capacity": 89,
+      "latitude": 41.996065,
+      "longtitude": 21.428905
+    },
+    "Parking6": {
+      "name": "Камен Мост",
+      "zone": "A8",
+      "location": "Црвена Скопска Општина\" (Маршал Тито)",
+      "capacity": 151,
+      "latitude": 41.998059,
+      "longtitude": 21.434672
+    },
+    "Parking7": {
+      "name": "Бристол",
+      "zone": "B2",
+      "location": "\"Мито ХаџиВасилев Јасмин\" по ново Св. \"Кирил и Методиј\"",
+      "capacity": 57,
+      "latitude": 41.991683,
+      "longtitude": 21.428617
+    },
+    "Parking8": {
+      "name": "Бристол2",
+      "zone": "B3",
+      "location": "\"Мито ХаџиВасилев Јасмин\" по ново Св. \"Кирил и Методиј\"",
+      "capacity": 46,
+      "latitude": 41.991089,
+      "longtitude": 21.430167
+    },
+    "Parking9": {
+      "name": "Јосип Броз",
+      "zone": "B6",
+      "location": " ул. \"Димитрие Чуповски\"",
+      "capacity": 26,
+      "latitude": 41.995356,
+      "longtitude": 21.426030
+    },
+    "Parking10": {
+      "name": "Илинден",
+      "zone": "B7",
+      "location": " ул. Стив Наумов",
+      "capacity": 77,
+      "latitude": 41.990041,
+      "longtitude": 21.436823
+    },
+    "Parking11": {
+      "name": "Дебар Маало",
+      "zone": "C8",
+      "location": "ул. \"Коста Шахов\"",
+      "capacity": 7,
+      "latitude": 41.995991,
+      "longtitude": 21.423019
+    },
+    "Parking12": {
+      "name": "Дебар Маало 2",
+      "zone": "C9",
+      "location": " ул. \"Дебарска\" ул. \"Никола Тримпаре\"",
+      "capacity": 28,
+      "latitude": 41.996846,
+      "longtitude": 21.423034
+    },
+    "Parking13": {
+      "name": "Орце Николов",
+      "zone": "C11",
+      "location": " ул. \"Орце Николов\" (на потегот од Св. Климент Охридски до ул. \"Франклин Рузвелт\" (Дебар Маало)",
+      "capacity": 112,
+      "latitude": 42.003325,
+      "longtitude": 21.416986
+    },
+    "Parking14": {
+      "name": "Универзална Сала",
+      "zone": "C19",
+      "location": "ул. \"29 – ти Ноември\" по ново \"Костурски херои\"",
+      "capacity": 26,
+      "latitude": 41.998688,
+      "longtitude": 21.417122
+    },
+    "Parking15": {
+      "name": "Зоолошка",
+      "zone": "C80",
+      "location": "Булевар \"Илинден\" ",
+      "capacity": 104,
+      "latitude": 42.006805,
+      "longtitude": 21.417396
+    },
+    "Parking16": {
+      "name": "Т.Ц.Бисер",
+      "zone": "D3",
+      "location": " Населба Аеродром (Булевар \"Јане Сандански\")",
+      "capacity": 1358,
+      "latitude": 41.984996,
+      "longtitude": 21.465679
+    },
+    "Parking17": {
+      "name": "Веро",
+      "zone": "D4",
+      "location": " Населба Аеродром (Булевар \"Јане Сандански\")",
+      "capacity": 727,
+      "latitude": 41.985137,
+      "longtitude": 21.468004
+    },
+    "Parking18": {
+      "name": "Владимир Комаров",
+      "zone": "D5",
+      "location": "ул.\"Владимир Комаров\"",
+      "capacity": 116,
+      "latitude": 41.989850,
+      "longtitude": 21.451758
+    },
+    "Parking19": {
+      "name": "Палма Аеродром",
+      "zone": "D6",
+      "location": " ул. \"Владимир Комаров\"",
+      "capacity": 113,
+      "latitude": 41.988766,
+      "longtitude": 21.452241
+    },
+    "Parking20": {
+      "name": "Хотел Русија",
+      "zone": "D1",
+      "location": " Бул. \"АСНОМ\"",
+      "capacity": 31,
+      "latitude": 41.992894,
+      "longtitude": 21.465418
+    }
+  }
+}
