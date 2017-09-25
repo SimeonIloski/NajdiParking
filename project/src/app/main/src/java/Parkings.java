@@ -19,6 +19,6 @@ class Parkings implements  Comparable<Parkings>{
     }
     @Override
     public String toString(){
-        return String.format("%s \n %s",p.name,p.location);
+        return String.format("%s \n%s\nОддалеченост: %.02f метри",p.name,p.location,dist);
     }
 }

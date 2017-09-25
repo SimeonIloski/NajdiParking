@@ -88,7 +88,7 @@ public class  Parking implements  Comparable<Parking>,Parcelable {
 
     @Override
     public String toString() {
-        return String.format("%s\t\tZone: %s\nlocation: %s\nCapacity: %d\t\tFree: %d",name,zone,location,capacity,getFree());
+        return String.format("%s\t\tЗона: %s\nЛокација: %s\nБрој на паркинг места: %d",name,zone,location,capacity);
     }
 
 
